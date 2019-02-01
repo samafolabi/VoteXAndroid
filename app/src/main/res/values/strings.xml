@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VoteX</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Log In/Sign Up</string>
+
+    <string name="org">Organization</string>
+    <string name="per">Personal</string>
+    <string name="orgname">Organization Name</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="cemail">Confirm Email Address</string>
+    <string name="uname">Username</string>
+    <string name="pword">Password</string>
+    <string name="cpword">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="pro">Profile</string>
+    <string name="vote">Vote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
